@@ -219,7 +219,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{358309FD-D990-4295-9159-2390FE507290}</Property>
-				<Property Name="Bld_version.build" Type="Int">6</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">voltmetr.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/My Application/voltmetr.exe</Property>
@@ -228,7 +228,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/My Application/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{088AE3C7-9F6C-408F-8E11-441B785D43EB}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{879E9B10-0D29-4A2E-931C-56BC6134CAAD}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/st_voltmetr.vi</Property>
@@ -238,7 +238,7 @@
 				<Property Name="TgtF_fileDescription" Type="Str">My Application</Property>
 				<Property Name="TgtF_internalName" Type="Str">My Application</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2026 </Property>
-				<Property Name="TgtF_productName" Type="Str">Voltmetr</Property>
+				<Property Name="TgtF_productName" Type="Str">My Application</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{7FA423C9-2D07-43B4-BAF1-A3DEFEDED80C}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">voltmetr.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
