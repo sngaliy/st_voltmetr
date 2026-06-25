@@ -165,9 +165,12 @@
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="LimitsV(SubVI).vi" Type="VI" URL="../subVIs/LimitsV(SubVI).vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Meas (SubVI).vi" Type="VI" URL="../subVIs/Meas (SubVI).vi"/>
 			<Item Name="MenuVolt.rtm" Type="Document" URL="../MenuVolt.rtm"/>
+			<Item Name="OnOffGenParametr (SubVI).vi" Type="VI" URL="../subVIs/OnOffGenParametr (SubVI).vi"/>
+			<Item Name="OnOffGenParametrFromSTAR (SubVI).vi" Type="VI" URL="../subVIs/OnOffGenParametrFromSTAR (SubVI).vi"/>
 			<Item Name="Open.vi" Type="VI" URL="../subVIs/Open.vi"/>
 			<Item Name="OscAutoDiap (SubVI).vi" Type="VI" URL="../subVIs/OscAutoDiap (SubVI).vi"/>
 			<Item Name="OscCapture (SubVI).vi" Type="VI" URL="../subVIs/OscCapture (SubVI).vi"/>
